@@ -7,7 +7,6 @@ import java.util.logging.*;
 public class CryptWithMD5 {
 	
 	/*
-	 * Jeff Vincent found this at
 	 * https://stackoverflow.com/questions/10696432/encryption-of-password-in-java-or-mysql
 	 * "You cannot decrypt MD5, but you can compare outputs since if you put the same string 
 	 * in this method it will return the same crypted output.If you want to decrypt you need 
