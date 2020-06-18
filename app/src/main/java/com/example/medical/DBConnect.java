@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 
 /**
- * @author Jeff Vincent V1.0
+
  * This is the connection to the database and methods to pass relevant SQL statements 
  * for SELECT, UPDATE, CREATE AND DELETE
  *
