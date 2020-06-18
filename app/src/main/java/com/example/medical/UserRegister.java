@@ -2,7 +2,7 @@ package com.example.medical;
 
 public class UserRegister{
 	/*
-	 * Jeff Vincent v1.0
+	
 	 * user when registering user for first time, 
 	 * to get user details or to update use User Class
 	 * or for password change also use User class.
